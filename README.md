@@ -9,25 +9,26 @@
 
 ### 🎓 About Me
 
-* Currently pursuing BS in Artificial Intelligence at University of Science and Technology Bannu (USTB), Pakistan
-* Interning remotely as a Machine Learning Engineer at FlyRank.ai, working on real world ML pipelines and AI Fluency projects
-* Documenting a #AiMLEngineeringJourney of daily Python and ML practice on LinkedIn
-* Microsoft Student Ambassador
-* Completed 20+ Anthropic Academy certifications covering Claude APIs, MCP, Claude Code, and cloud integrations
-* Open to learning opportunities, internships, and collaborations in AI and ML
+I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intelligence student at the University of Science and Technology Bannu (USTB), Pakistan. My work centers on building end to end ML pipelines, from data validation and feature engineering to model training and evaluation on real world datasets.
+
+* 🔭 Currently working on a content scoring pipeline at FlyRank.ai, using SEO data to train and validate predictive models
+* 🌱 Actively expanding my skills in ML engineering, applied statistics, and AI system design
+* 🏅 Microsoft Student Ambassador
+* 📜 Completed 20+ Anthropic Academy certifications covering Claude APIs, MCP, Claude Code, and cloud integrations
+* 📫 Open to internships, research collaborations, and opportunities in AI and Machine Learning
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="[YOUR_PORTFOLIO_URL](https://muzammilzulfiqar.vercel.app/)" target="_blank">
+  <a href="https://muzammilzulfiqar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/muzammil-zulfiqar-895660375" target="_blank">
+  <a href="https://www.linkedin.com/in/muzammil-zulfiqar-895660375" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:muzammilzulfi012gmail.com" target="_blank">
+  <a href="mailto:muzammilzulfi01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/muzammil-12345" target="_blank">
