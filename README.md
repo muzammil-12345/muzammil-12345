@@ -15,6 +15,7 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 * 🌱 Actively expanding my skills in ML engineering, applied statistics, and AI system design
 * 🏅 Microsoft Student Ambassador
 * 📜 Completed 20+ Anthropic Academy certifications covering Claude APIs, MCP, Claude Code, and cloud integrations
+* 📜 Hold 22 Coursera certifications from Google, IBM, University of Michigan, and University of London, including a specialization certificate
 * 📫 Open to internships, research collaborations, and opportunities in AI and Machine Learning
 
 ---
@@ -43,14 +44,12 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **ML & Data**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Tools & Platforms**
 
@@ -58,6 +57,7 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 **AI**
 
