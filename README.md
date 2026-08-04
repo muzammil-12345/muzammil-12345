@@ -21,13 +21,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://muzammilzulfiqar.vercel.app/" target="_blank">
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/muzammil-zulfiqar-895660375" target="_blank">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mail to: muzammilzulfi01@gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/muzammil-12345" target="_blank">
@@ -42,13 +42,14 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **ML & Data**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Tools & Platforms**
 
@@ -71,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-12345&theme=radical" alt="Muzammil Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=muzammil-12345&theme=radical" alt="Muzammil Streak Stats" />
 </p>
 
 ---
