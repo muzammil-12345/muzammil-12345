@@ -21,13 +21,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="[YOUR_PORTFOLIO_URL](https://muzammilzulfiqar.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/muzammil-zulfiqar-895660375" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:muzammilzulfi012gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/muzammil-12345" target="_blank">
