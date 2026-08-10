@@ -89,10 +89,10 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzammil-12345&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&icon_color=D97757&text_color=c9d1d9" alt="Muzammil GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-12345&theme=radical&hide_border=true&background=0D1117&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="Muzammil Streak Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=muzammil-12345&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&icon_color=D97757&text_color=c9d1d9" alt="Muzammil GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=muzammil-12345&theme=radical&hide_border=true&background=0D1117&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="Muzammil Streak Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-12345&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=c9d1d9" alt="Top Languages" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muzammil-12345&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=c9d1d9" alt="Top Languages" width="48%"/>
 
 </div>
 
