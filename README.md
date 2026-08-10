@@ -111,4 +111,3 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150458,100:D97757&height=120&section=footer&width=100%"/>
 </div>
-<p align="center"><i>Thanks for stopping by, feel free to explore my repos and reach out</i></p>
