@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+Student+%40+USTB;Building+ML+Pipelines+%26+Scoring+Models;Exploring+AI+Agents+and+Claude+MCP;Documenting+My+Journey+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muzammil-12345&color=D97757&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
 <br/>
@@ -18,12 +22,32 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 
 - 🔭 Currently working on a content scoring pipeline at FlyRank.ai, using SEO data to train and validate predictive models
 - 🌱 Actively expanding my skills in ML engineering, applied statistics, and AI system design
+- 📖 Currently learning: Deep Learning, LLMs, RAG, LangChain, AI Agents, MLOps, and Docker
 - 🏅 Microsoft Student Ambassador
 - 📜 Completed 20+ Anthropic Academy certifications covering Claude APIs, MCP, Claude Code, and cloud integrations
 - 📜 Hold 22 Coursera certifications from Google, IBM, University of Michigan, and University of London, including a specialization certificate
+- ✍️ I write about my learning journey daily on LinkedIn under #AiMLEngineeringJourney
 - 📫 Open to internships, research collaborations, and opportunities in AI and Machine Learning
 
 <br clear="right"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:150458&height=2&section=header&width=100%"/>
+</div>
+
+## 🚀 Featured Work
+
+<div align="center">
+
+<a href="https://muzammil-12345.github.io/flyrank-ml-internship" target="_blank">
+  <img src="https://img.shields.io/badge/Capstone_Research_Paper-Content_Scoring_Pipeline-D97757?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+</div>
+
+**Content Scoring Pipeline (FlyRank.ai Capstone)**
+End to end ML pipeline scoring SEO content for refresh priority. Random Forest model, client grouped holdout validation, Precision@50 of 0.740. Includes an honest writeup of a data leakage bug I caught and fixed during validation.
+→ [Read the paper](https://muzammil-12345.github.io/flyrank-ml-internship) · [Portfolio](https://muzammilzulfiqar.vercel.app/)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:150458&height=2&section=header&width=100%"/>
@@ -65,6 +89,8 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 
 **Tools & Platforms**
 
@@ -78,6 +104,7 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 
 </div>
 
@@ -106,8 +133,19 @@ I am a Machine Learning Engineer Intern at FlyRank.ai and a BS Artificial Intell
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammil-12345&theme=react-dark&hide_border=true&bg_color=0D1117&color=D97757&line=D97757&point=ffffff" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:150458&height=2&section=header&width=100%"/>
+</div>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150458,100:D97757&height=120&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150458,100:D97757&height=120&section=footer"/>
+</div>height=120&section=footer&width=100%"/>
 </div>
