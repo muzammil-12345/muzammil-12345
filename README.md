@@ -147,5 +147,5 @@ End to end ML pipeline scoring SEO content for refresh priority. Random Forest m
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150458,100:D97757&height=120&section=footer"/>
-</div>height=120&section=footer&width=100%"/>
+</div>
 </div>
